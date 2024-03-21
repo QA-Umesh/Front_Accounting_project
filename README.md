@@ -1,1 +1,1 @@
-# Front_Accounting_project
+Front Accounting is a Professional web-based application for ERP domain. it is targeted towards small and medium size enterprises. Fornt Accounting is a multiuser system. it support multiple language & currencies.
